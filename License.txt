@@ -1,1 +1,9 @@
-mbuh
+# valid_servers for Final PH V2
+# updated: 2025-11-23
+# format: ip:port (one per line). Lines starting with # are ignored.
+
+# Lippersh4y AAD
+
+
+# Notes:
+# - Edit this file on GitHub; Pawn akan reload sesuai interval.
