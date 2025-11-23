@@ -6,4 +6,4 @@
 159.89.207.78:8057
 
 # Notes:
-# - Edit this file on GitHub; Pawn akan reload sesuai interval.
+# - Edit this file on GitHub; Pawn akan reload sesuai interval. a
